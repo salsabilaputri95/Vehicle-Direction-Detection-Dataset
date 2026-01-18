@@ -134,20 +134,13 @@ Dataset ini dapat digunakan untuk:
 ## 📌 Catatan
 
 - Dataset mencakup berbagai kondisi pencahayaan untuk meningkatkan generalisasi model
-- Gambar diambil dari berbagai sudut dan jarak
 - Cocok untuk deployment dalam sistem ANPR real-time
 
-## 📄 License
-
-[Silakan tambahkan informasi lisensi di sini]
 
 ## 🤝 Kontribusi
 
 Kontribusi untuk meningkatkan dataset ini sangat diapresiasi. Silakan buat pull request atau buka issue untuk diskusi.
 
-## 📧 Kontak
-
-[Silakan tambahkan informasi kontak di sini]
 
 ---
 
