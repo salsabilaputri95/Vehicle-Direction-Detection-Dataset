@@ -2,13 +2,6 @@
 
 Dataset untuk deteksi arah kendaraan (Vehicle Direction Detection) menggunakan YOLO format. Dataset ini dikumpulkan untuk sistem ANPR (Automatic Number Plate Recognition) dengan tujuan mengidentifikasi apakah kendaraan bergerak dengan arah yang benar atau berlawanan.
 
-**Dataset ini diambil langsung oleh peneliti: [rockmind](https://github.com/salsabilaputri95).**
-
-**Lokasi pengambilan dataset: Indonesia, Provinsi Sulawesi Selatan.**
-# Vehicle Direction Detection Dataset
-
-Dataset untuk deteksi arah kendaraan (Vehicle Direction Detection) menggunakan YOLO format. Dataset ini dikumpulkan untuk sistem ANPR (Automatic Number Plate Recognition) dengan tujuan mengidentifikasi apakah kendaraan bergerak dengan arah yang benar atau berlawanan.
-
 ## 📋 Deskripsi Dataset
 
 Dataset ini berisi gambar kendaraan yang diambil dalam berbagai kondisi pencahayaan untuk melatih model deteksi arah kendaraan. Setiap gambar telah dianotasi dengan bounding box dan label kelas.
@@ -141,6 +134,9 @@ Dataset ini dapat digunakan untuk:
 
 Kontribusi untuk meningkatkan dataset ini sangat diapresiasi. Silakan buat pull request atau buka issue untuk diskusi.
 
+**Dataset ini diambil langsung oleh peneliti: [rockmind](https://github.com/salsabilaputri95).**
+
+**Lokasi pengambilan dataset: Indonesia, Provinsi Sulawesi Selatan.**
 
 ---
 
